@@ -25,6 +25,7 @@ I code for the fun of it. Sometimes I write fairly interesting technical deep-di
 
 > **Next Up :**
 > SIMD Accelerated B+Trees and how they outpace standard containers
+
 > Designing a low latency concurrent logger with Fan-In layout.
  
 
