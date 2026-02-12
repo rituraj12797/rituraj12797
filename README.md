@@ -18,7 +18,7 @@ I code for the fun of it. Sometimes I write fairly interesting technical deep-di
 
 ## Recent Engineering Blogs
 
-1. [Approaching 50 Million Transactions](https://bellw3ther.tech/blog/ring_buffer_two)
+1. [Approaching 50 Million Transactions](https://bellw3ther.tech/blog/optimizing_ring_buffer)
 2. [Implementing Lock-Free Ring Buffers in C++](https://bellw3ther.tech/blog/ring_buffer)
 3. [CloudFlare Outage: Technical Breakdown](https://bellw3ther.tech/blog/cloudflare_outage)
 4. [AWS Outage: Technical Breakdown](https://bellw3ther.tech/blog/aws_outage)
