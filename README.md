@@ -45,7 +45,7 @@ I code for the fun of it. Sometimes I write fairly interesting technical deep-di
 ### 1. [Capitol](https://github.com/rituraj12797/Capitol_main)
 A low-latency, multi-core architecture stock exchange capable of handling **2.3 Million Orders/s**. It features a dedicated market simulator and an Alpha testing server to test custom strategies.
 
-### 2. GoD-B
+### 2. [GoD-B](https://github.com/rituraj12797/GoD-B)
 A B+ Tree-based key-value store in Go with persistence, WAL-based recovery, and a double-buffer flushing mechanism. Includes an in-memory mode supporting **>1M+ reads/s**.
 
 ### 3. [VCON](https://github.com/rituraj12797/VCON)
